@@ -26,6 +26,7 @@ const Projects = () => {
                   <div className="img d-flex justify-content-center align-content-center p-3">
                     <img
                       src={data.imageSrc}
+                     
                       className="card-img-top"
                       alt="..."
                       style={{
